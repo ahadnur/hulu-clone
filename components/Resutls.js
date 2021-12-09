@@ -1,5 +1,5 @@
 import FlipMove from 'react-flip-move'
-import Thumbnail from './thumbnail'
+import Thumbnail from './Thumbnail'
 
 function Resutls({ results }) {
     return (
